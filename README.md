@@ -1,8 +1,15 @@
 # Math 
-大学院時代の資料
+大学院時代の資料置き場
 
-##2021_関数解析研究会2021
-Leander Fiedler, Pieter Naaijkens,Haag duality for Kitaev's quantum double model for abelian groups(https://arxiv.org/abs/1406.1084)の紹介を行った。
+## 2021_関数解析研究会2021
+Leander Fiedler, Pieter Naaijkens,Haag duality for Kitaev's quantum double model for abelian groups(https://arxiv.org/abs/1406.1084)の紹介を行った.  
+前半は量子系の時間発展を作用素環の枠組みで記述したC*-dynamicsの基本的な解説,後半ではKitev's Quantum Double ModelというZ^2上の量子系について扱った.Z^2格子上の系を扱うと言う点ではIzingモデルと類似しているが,格子点を繋ぐ各辺(edge)上に粒子が配置されている.
+Hamiltonianはstar演算子とplaquett演算子という2つの演算子によって構成されている.
+この設定のもとで系の基底状態の一意性が証明できるのだが,最早パズルと言っても差し支えないごく簡単な考察が証明のテクニカルな部分を担っているのが興味深い.
+
+また各粒子の内部自由度を2次元(Z/2Z)に制約したとき,つまり量子計算モデルとしての運用を念頭に置いた時を考える。このときGNS表現上のHamiltonianがスペクトラルギャップもつことが知られているが、具体的計算によって4以上であることが示される.
+
+実用面では量子誤り訂正への応用が期待されているが,ここ2年ほどで関連文献で急速に増加しているのを感じている.
 
 ・修論
-量子測定理論(POVM等)を作用素環的立場から抽象化した理論について考察を行った。
+量子測定理論(POVM等)を作用素環的立場から抽象化した理論について考察を行った.
